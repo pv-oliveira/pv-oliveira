@@ -12,8 +12,8 @@ I'm a student of analysis and systems development, I'm from Brazil. I really enj
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pv-oliveira)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/paulo-v-oliveira/)  
 
 <div align="center">
-  <a href="https://github.com/yandrakarine">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pvoliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/pv-oliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pv-oliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pv-oliveira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
