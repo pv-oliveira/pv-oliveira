@@ -16,8 +16,8 @@ I'm a student of analysis and systems development, I'm from Brazil. I really enj
 ![Typescript](https://img.shields.io/badge/typescript-%23777BB4.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%23FF2D20.svg?&style=for-the-badge&logo=css3&logoColor=white)
-<!-- ![NoSQL](https://img.shields.io/badge/nosql-FFD700.svg?&style=for-the-badge&logo=mysql&logoColor=white) -->
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+<!-- ![NoSQL](https://img.shields.io/badge/nosql-FFD700.svg?&style=for-the-badge&logo=mysql&logoColor=white) -->
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pv-oliveira)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/paulo-v-oliveira/)  
 
