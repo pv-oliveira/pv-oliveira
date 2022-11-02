@@ -13,7 +13,7 @@ I'm a student of analysis and systems development, I'm from Brazil. I really enj
 
 <div align="center">
   <a href="https://github.com/yandrakarine">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pv-oliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pvoliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pv-oliveira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
