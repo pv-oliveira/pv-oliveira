@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a student of analysis and systems development, I'm from Brazil. I really enjoy learning languages and frameworks like React and React Native.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pv-oliveira)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **pv-oliveira/pv-oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
